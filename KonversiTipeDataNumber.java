@@ -13,6 +13,5 @@ public class KonversiTipeDataNumber {
         int tipeDataInteger = 128;
         byte tipeDataByteConverted = (byte) tipeDataInteger;
         System.out.println(tipeDataByteConverted);
-
     }
 }
